@@ -1,4 +1,6 @@
-# This is the code containing the experiments presented in the paper "A comprehensive interpretable machine learning framework for Mild Cognitive Impairment and Alzheimer's disease diagnosis"
+## A comprehensive interpretable machine learning framework for Mild Cognitive Impairment and Alzheimer's disease diagnosis
+
+This is the repository containing the code of the experiments presented in this paper 
 
 ## Open this notebook in Google Colab:
 
