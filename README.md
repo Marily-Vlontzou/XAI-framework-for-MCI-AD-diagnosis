@@ -2,6 +2,8 @@
 
 This is the repository containing the code of the experiments presented in this paper. 
 
+You can find the preprint of the paper in [arXiv](https://arxiv.org/abs/2412.09376)
+
 ## Open this notebook in Google Colab:
 
 The notebook is too large to be displayed in Github. You can either download it locally or press the button to open it in Google Colab.
