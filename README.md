@@ -1,8 +1,10 @@
 ## A comprehensive interpretable machine learning framework for Mild Cognitive Impairment and Alzheimer's disease diagnosis
 
-This is the repository containing the code of the experiments presented in this paper 
+This is the repository containing the code of the experiments presented in this paper. 
 
 ## Open this notebook in Google Colab:
+
+The notebook is too large to be displayed in Github. You can either download it locally or press the button to open it in Google Colab.
 
 <a target="_blank" href="https://colab.research.google.com/github/Marily-Vlontzou/XAI-framework-for-MCI-AD-diagnosis/blob/main/XAI_ADNI.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
